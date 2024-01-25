@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🌱 I’m currently learning :
+- 🌱 I’m currently learning 🌱:
   - Linux Network
     - TCP/IP
     - virtio-net
@@ -8,7 +8,7 @@
   - Linux system programming
   - Android network stack
 
-- 🏢Skills (Some experience in automotive embedded):
+- 👷 Skills (Some experiences in automotive embedded) 🏢:
   - C/C++
   - Python
   - Shell
@@ -16,8 +16,7 @@
   - Android
   
 - 💬/📫 How to reach me:
-  - young_2017@126.com
-
+  - 📧 young_2017@126.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sphinxes0o0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
