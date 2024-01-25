@@ -5,8 +5,8 @@
     - TCP/IP
     - virtio-net
     - eBPF
-  - Linux system programming
-  - Android network stack
+  - Rust / C / C++ / Python
+  - Android Network Stack
 
 - 👷 Skills (Some experiences in automotive embedded) 🏢:
   - C/C++
