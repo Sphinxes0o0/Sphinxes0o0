@@ -8,7 +8,7 @@
   - Linux system programming
   - Android network stack
 
-- 🏢 Some experience in automotive embedded, skills:
+- 🏢Skills (Some experience in automotive embedded):
   - C/C++
   - Python
   - Shell
