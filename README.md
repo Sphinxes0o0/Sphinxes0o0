@@ -1,8 +1,5 @@
 # Hi there 👋
 
-
-
-
 - 🌱 I’m currently learning :
   - Linux Network
     - TCP/IP
@@ -10,8 +7,14 @@
     - eBPF
   - Linux system programming
   - Android network stack
-    
-- 🤔 I’m looking a job
+
+- 🏢 Some experience in:
+  - automotive embedded
+  - C/C++
+  - Python
+  - Shell
+  - QNX
+  - Android
   
 - 💬/📫 How to reach me:
   - young_2017@126.com
