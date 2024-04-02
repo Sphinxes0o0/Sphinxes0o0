@@ -7,13 +7,25 @@
     - eBPF
   - Rust / C / C++ / Python
   - Android Network Stack
+  - Network communication protocol stacks
+    - MQTT
+    - SOME/IP
+    - TSN / AVB
+    - DoIP
 
-- 👷 Skills (Some experiences in automotive embedded) 🏢:
+- 👷 Skills 🏢:
   - C/C++
   - Python
   - Shell
-  - QNX
-  - Android
+  -  Familiar with
+    - QNX
+    - Linux
+    - Android
+  - Automotive Ethernet stacks
+    - DoIP
+    - SOME/IP
+    - TSN/AVB
+    - MQTT
   
 - 💬/📫 How to reach me:
   - 📧 young_2017@126.com
