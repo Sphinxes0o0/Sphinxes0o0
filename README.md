@@ -32,5 +32,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sphinxes0o0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sphinxes0o0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![CodeWars](https://www.codewars.com/users/Sphinx0o0/badges/large)
+
+![CodeWars](https://www.codewars.com/users/Sphinx0o0/badges/large)
