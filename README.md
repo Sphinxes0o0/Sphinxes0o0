@@ -25,11 +25,6 @@
     - DoIP
     - SOME/IP
     - TSN/AVB
-    - MQTT
-  
-- 💬/📫 How to reach me:
-  - 📧 young_2017@126.com
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sphinxes0o0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
