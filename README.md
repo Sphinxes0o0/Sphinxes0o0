@@ -18,9 +18,12 @@
   - Python
   - Shell
   -  Familiar with
-    - QNX
-    - Linux
-    - Android
+      - QNX
+      - Linux
+      - Android
+      - FreeBSD
+      - seL4
+      - FreeRTOS
   - Automotive Ethernet stacks
     - DoIP
     - SOME/IP
